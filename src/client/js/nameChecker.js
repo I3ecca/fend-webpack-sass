@@ -5,7 +5,7 @@ function checkForName(inputText) {
     let nova = "Nova";
 
     if(justin.includes (inputText)) {
-        alert("Welcome, Justin! Have an Oreo!")
+        alert("Welcome, Justin! Have some Oreos!")
     }
 
     if(becca.includes (inputText)) {
